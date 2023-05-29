@@ -6,4 +6,4 @@ A new Flutter project.
 
 Tic  Tac Toe game built in flutter.
 
-![Build a production app - Flutter tutorial](tic.png)
+![Build a production app - Flutter tutorial](toe.png)
